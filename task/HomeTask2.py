@@ -17,3 +17,4 @@ print(' '.join(firstList))
 for i in range(len(finalList)):
     print(' '.join(finalList[i]))
 
+print('salam necesiz')
