@@ -16,5 +16,3 @@ for i in range(s1):
 print(' '.join(firstList))
 for i in range(len(finalList)):
     print(' '.join(finalList[i]))
-
-print('salam necesiz')
